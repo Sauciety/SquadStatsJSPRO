@@ -1,9 +1,9 @@
 {
-	"token": "Discord_Bot_Token",
-	"serverID": "Discord_Server_ID",
-	"squadBattleMetricsID": "BattleMetrics_ServerID",
+	"token": "MTA0NDU2MDA4NTg2NDY5Mzc2MA.GGmZUZ.MMyP_P4T-ImHho0SK7fJbNnl6GNZdUP2of4DGU",
+	"serverID": "1010488840689041458",
+	"squadBattleMetricsID": "17470760",
 	"support": {
-		"logs": "827885263438217226",
+		"logs": "1020305550224937012",
 		"debug": false
 	},
 	"socketIOURL": "ws://localhost",
@@ -23,7 +23,7 @@
 		"expressSessionPassword": "UcPT5Enzmhk_ARFVrGyDZ3WjJvSe!9",
 		"failureURL": "http://my-domain.com"
 	},
-	"mongoDB": "mongodb://localhost:27017/V3",
+	"mongoDB": "mongodb+srv://ellie:3xTFqd39-Z2sDV@6thab.ktsyevs.mongodb.net/?retryWrites=true&w=majority",
 	"prefix": "!",
 	"embed": {
 		"color": "#0091fc",
